@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 * Download the <code>checkpoints.zip</code> from [here](https://drive.google.com/drive/folders/1gwY7ZjE4Uzwj2q7FlP6hWUf_TR0zXKg8?usp=drive_link) and unzip to the repository root directory. 
 * Download the <code>weights.zip</code> from [here](https://drive.google.com/drive/folders/1gwY7ZjE4Uzwj2q7FlP6hWUf_TR0zXKg8?usp=drive_link) and unzip in the root directory of the repository.
-* Download the <code>results</code> from [here](https://drive.google.com/file/d/10gIXRqNpxSMfviNUidPpab7shuxVbO3G/view?usp=drive_link)
+* Download the <code>results</code> from [here](https://drive.google.com/drive/folders/1ZUuehtFrICEwFv-K0DMAQuIY_86ErVwH?usp=drive_link)
 
 ## RUN TESTING
 
