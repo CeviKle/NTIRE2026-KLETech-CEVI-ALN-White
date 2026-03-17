@@ -41,7 +41,7 @@ if __name__ == '__main__':
     parser.add_argument("--data_src", default="./NTIRE2026/C2_ALN_White/valid/LQ")
     parser.add_argument("--res_dir", default="./final-results")
     parser.add_argument("--ckp_dir", default="./checkpoints")
-    parser.add_argument("--load_from", default="IFBlend_ambient6k")
+    parser.add_argument("--load_from", default="IFBlend_ALN")
 
     opt = parser.parse_args()
     print(opt)
