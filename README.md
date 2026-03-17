@@ -15,7 +15,8 @@ cd NTIRE2026-KLETech-CEVI-ALN-White
 pip install -r requirements.txt
 ```
 * Download the <code>checkpoints.zip</code> from [here](https://drive.google.com/file/d/1nNY1vF7mwVRWgTtdhJRmF5s9yGCAMZfm/view?usp=sharing) and unzip to the repository root directory. 
-* Download the <code>weights.zip</code> from [here](https://drive.google.com/file/d/1rwv2G8tAboGEzEsczMMiSMzxCA1to3f7/view?usp=sharing) and unzip in the root directory of the repository. 
+* Download the <code>weights.zip</code> from [here](https://drive.google.com/file/d/1rwv2G8tAboGEzEsczMMiSMzxCA1to3f7/view?usp=sharing) and unzip in the root directory of the repository.
+* Download the <code>results</code> from [here](https://drive.google.com/file/d/10gIXRqNpxSMfviNUidPpab7shuxVbO3G/view?usp=drive_link)
 
 ## RUN TESTING
 
